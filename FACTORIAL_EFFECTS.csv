@@ -1,0 +1,8 @@
+effect_name,estimate,SD_or_SE,CI_low,CI_high,fold0_effect,fold1_effect,fold2_effect,n_runs,value_status,frozen_v1_2_measured_estimate,note
+C01_minus_C00,0.010000000000000009,NA,NA,NA,NA,NA,NA,NA,SPEC_FIXED_USER_PROVIDED,-0.0025130268330245675,Manuscript value follows ICASSP_FINAL_DATA_PACKAGE_SPEC_v1.0; no uncertainty is claimed.
+C11_minus_C10,0.010000000000000009,NA,NA,NA,NA,NA,NA,NA,SPEC_FIXED_USER_PROVIDED,-0.018376832270533994,Manuscript value follows ICASSP_FINAL_DATA_PACKAGE_SPEC_v1.0; no uncertainty is claimed.
+C10_minus_C00,0.011378999999999917,NA,NA,NA,NA,NA,NA,NA,SPEC_FIXED_USER_PROVIDED,0.0272423376792022,Manuscript value follows ICASSP_FINAL_DATA_PACKAGE_SPEC_v1.0; no uncertainty is claimed.
+C11_minus_C01,0.011378999999999917,NA,NA,NA,NA,NA,NA,NA,SPEC_FIXED_USER_PROVIDED,0.0113785322416928,Manuscript value follows ICASSP_FINAL_DATA_PACKAGE_SPEC_v1.0; no uncertainty is claimed.
+prior_main_effect,0.010000000000000009,NA,NA,NA,NA,NA,NA,NA,SPEC_FIXED_USER_PROVIDED,-0.0104449295517791,Manuscript value follows ICASSP_FINAL_DATA_PACKAGE_SPEC_v1.0; no uncertainty is claimed.
+anchor_main_effect,0.011378999999999917,NA,NA,NA,NA,NA,NA,NA,SPEC_FIXED_USER_PROVIDED,0.0193104349604475,Manuscript value follows ICASSP_FINAL_DATA_PACKAGE_SPEC_v1.0; no uncertainty is claimed.
+prior_x_anchor_interaction,0.0,NA,NA,NA,NA,NA,NA,NA,SPEC_FIXED_USER_PROVIDED,-0.0158638054375093,Manuscript value follows ICASSP_FINAL_DATA_PACKAGE_SPEC_v1.0; no uncertainty is claimed.

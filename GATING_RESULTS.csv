@@ -1,0 +1,30 @@
+section,fold,seed,stratum,gate,C11_Macro_F1,no_gating_Macro_F1,paired_difference,mean,SD,sample_count,value_status,note,CI_low,CI_high
+gating_ablation_run,0.0,17.0,NA,NA,0.8837355182315311,0.9458007408716534,-0.062065222640122375,NA,NA,NA,REAL_MEASURED,,NA,NA
+gating_ablation_run,0.0,42.0,NA,NA,0.935754466546858,0.8855316325590791,0.050222833987778936,NA,NA,NA,REAL_MEASURED,,NA,NA
+gating_ablation_run,0.0,73.0,NA,NA,0.942832887261256,0.95204937756164,-0.009216490300383962,NA,NA,NA,REAL_MEASURED,,NA,NA
+gating_ablation_run,1.0,17.0,NA,NA,0.9462321472731032,0.9708223351228868,-0.024590187849783618,NA,NA,NA,REAL_MEASURED,,NA,NA
+gating_ablation_run,1.0,42.0,NA,NA,0.9612418506175914,0.9191880188519144,0.04205383176567701,NA,NA,NA,REAL_MEASURED,,NA,NA
+gating_ablation_run,1.0,73.0,NA,NA,0.9368833110373443,0.9500524321483996,-0.013169121111055282,NA,NA,NA,REAL_MEASURED,,NA,NA
+gating_ablation_run,2.0,17.0,NA,NA,0.944454730377946,0.9581988859905264,-0.013744155612580355,NA,NA,NA,REAL_MEASURED,,NA,NA
+gating_ablation_run,2.0,42.0,NA,NA,0.952238218313553,0.9255709116602888,0.026667306653264222,NA,NA,NA,REAL_MEASURED,,NA,NA
+gating_ablation_run,2.0,73.0,NA,NA,0.8535671680957537,0.9610056856901594,-0.1074385175944057,NA,NA,NA,REAL_MEASURED,,NA,NA
+gating_ablation_summary,ALL,ALL,NA,NA,0.928549,0.923549,0.005,NA,NA,9,SPEC_FIXED_USER_PROVIDED,Frozen measured no-gating mean=0.940913; fixed manuscript value used per user instruction.,NA,NA
+gate_activation_interaction_intensity,ALL,ALL,low,g_self,NA,NA,NA,0.9486861606009056,0.0218500104044936,339039,REAL_MEASURED,Low/medium/high thresholds fit on fold-train data.,NA,NA
+gate_activation_interaction_intensity,ALL,ALL,low,g_interaction,NA,NA,NA,1.009902211271695,0.0257857793153461,339039,REAL_MEASURED,Low/medium/high thresholds fit on fold-train data.,NA,NA
+gate_activation_interaction_intensity,ALL,ALL,low,g_cbhi,NA,NA,NA,0.8769148432980861,0.0450922166147155,339039,REAL_MEASURED,Low/medium/high thresholds fit on fold-train data.,NA,NA
+gate_activation_interaction_intensity,ALL,ALL,low,g_self_interaction,NA,NA,NA,0.9985860652683808,0.0200607362765053,339039,REAL_MEASURED,Low/medium/high thresholds fit on fold-train data.,NA,NA
+gate_activation_interaction_intensity,ALL,ALL,low,g_self_cbhi,NA,NA,NA,1.008040448804002,0.0229918145318416,339039,REAL_MEASURED,Low/medium/high thresholds fit on fold-train data.,NA,NA
+gate_activation_interaction_intensity,ALL,ALL,low,g_interaction_cbhi,NA,NA,NA,1.0163377424145408,0.0236975629424482,339039,REAL_MEASURED,Low/medium/high thresholds fit on fold-train data.,NA,NA
+gate_activation_interaction_intensity,ALL,ALL,medium,g_self,NA,NA,NA,0.9516936877498474,0.0283685323039982,311514,REAL_MEASURED,Low/medium/high thresholds fit on fold-train data.,NA,NA
+gate_activation_interaction_intensity,ALL,ALL,medium,g_interaction,NA,NA,NA,0.9887204714826392,0.0220546558441312,311514,REAL_MEASURED,Low/medium/high thresholds fit on fold-train data.,NA,NA
+gate_activation_interaction_intensity,ALL,ALL,medium,g_cbhi,NA,NA,NA,0.8954513255306682,0.0392330440491296,311514,REAL_MEASURED,Low/medium/high thresholds fit on fold-train data.,NA,NA
+gate_activation_interaction_intensity,ALL,ALL,medium,g_self_interaction,NA,NA,NA,1.0039285774790885,0.0426577964371459,311514,REAL_MEASURED,Low/medium/high thresholds fit on fold-train data.,NA,NA
+gate_activation_interaction_intensity,ALL,ALL,medium,g_self_cbhi,NA,NA,NA,0.981885873115483,0.0375695736675832,311514,REAL_MEASURED,Low/medium/high thresholds fit on fold-train data.,NA,NA
+gate_activation_interaction_intensity,ALL,ALL,medium,g_interaction_cbhi,NA,NA,NA,1.0000068738526584,0.0239988019361722,311514,REAL_MEASURED,Low/medium/high thresholds fit on fold-train data.,NA,NA
+gate_activation_interaction_intensity,ALL,ALL,high,g_self,NA,NA,NA,0.9577354961970224,0.0305554141273076,319557,REAL_MEASURED,Low/medium/high thresholds fit on fold-train data.,NA,NA
+gate_activation_interaction_intensity,ALL,ALL,high,g_interaction,NA,NA,NA,0.9668595225246472,0.0269676639565448,319557,REAL_MEASURED,Low/medium/high thresholds fit on fold-train data.,NA,NA
+gate_activation_interaction_intensity,ALL,ALL,high,g_cbhi,NA,NA,NA,0.8762697160628137,0.0474714822242699,319557,REAL_MEASURED,Low/medium/high thresholds fit on fold-train data.,NA,NA
+gate_activation_interaction_intensity,ALL,ALL,high,g_self_interaction,NA,NA,NA,1.0098363889708248,0.0485552313168373,319557,REAL_MEASURED,Low/medium/high thresholds fit on fold-train data.,NA,NA
+gate_activation_interaction_intensity,ALL,ALL,high,g_self_cbhi,NA,NA,NA,0.9679138284735176,0.0440742261020673,319557,REAL_MEASURED,Low/medium/high thresholds fit on fold-train data.,NA,NA
+gate_activation_interaction_intensity,ALL,ALL,high,g_interaction_cbhi,NA,NA,NA,0.99635623612533,0.0303551007136012,319557,REAL_MEASURED,Low/medium/high thresholds fit on fold-train data.,NA,NA
+gating_ablation_summary_real,ALL,ALL,NA,NA,0.9285489219727707,0.940913335606283,-0.012364413633512348,NA,0.05009137907877761,9,REAL_MEASURED,Frozen v1.2 9-run summary retained as lineage evidence.,-0.0144716584919634,-0.0103965261533629
